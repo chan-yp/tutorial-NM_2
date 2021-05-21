@@ -16,6 +16,9 @@ Description      : myNM.h
 
 // Tutorial
 // Initial contents
+
+// hihihihihihhhihhih
+void gradient2(double xin[]);
 void printArray(double xin[]);
 
 // Added new function
